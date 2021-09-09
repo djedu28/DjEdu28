@@ -8,9 +8,8 @@ My name is Luis Eduardo!
 -   <img width="16" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> I'm in love with the programmable universe and robotics
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> My favorite programming language is Lua, and the second is Python
 -   👩‍🏫 Love teaching and sharing knowledge
--   <img width="16" src="https://cdn.icon-icons.com/icons2/317/PNG/512/notepad-icon_34386.png" alt="" /> Favorite text editor: [<img width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Atom_1.0_icon.png/600px-Atom_1.0_icon.png" alt="" /> Atom.io](https://atom.io)  &&  [<img width="16" src="https://i.imgur.com/4flFIjK.png" alt="" /> Notepad++](https://notepad-plus-plus.org/)
 
-# Languages
+## Languages
 ### Intermediate to advanced level
 
 * <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Lua ❣
@@ -23,6 +22,17 @@ My name is Luis Eduardo!
 * <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> R
 
 # Tech Stack
+
+### Automation and Robotics
+<code>
+    <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img alt="" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Expressif&logoColor=white">
+    <div style="background-color: #9a0012">
+        <img width="32" alt="" src="https://cyberbotics.com/assets/images/webots.png">
+        <img alt="" src="https://img.shields.io/badge/Webots-9a0012?style=for-the-badge&logoColor=white">
+    </div>
+</code>
 
 ### Front End
 
@@ -56,13 +66,10 @@ My name is Luis Eduardo!
 
 ## Learning
 
--   Automated Tests: TDD with Python
--   UX Designer
-
+    Automated Tests: TDD with Python
+    UX Designer
 
 ## Social networks
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/DjEdu28)
 
 ## Contact me
 
