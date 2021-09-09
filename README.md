@@ -8,7 +8,7 @@ My name is Luis Eduardo!
 -   <img width="16" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> I'm in love with the programmable universe and robotics
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> My favorite programming language is Lua, and the second is Python
 -  👨‍🏫 Love teaching and sharing knowledgen
--  👨‍🏫 Favorite text editor: Atom and Notepad++ 
+-  👨‍🏫 Favorite text editor: [Atom.io](https://atom.io/) and [Notepad++](https://notepad-plus-plus.org/) 
 
 ## 👨‍💻 Languages
 ### 😎 Intermediate to advanced level
