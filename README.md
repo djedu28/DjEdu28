@@ -67,8 +67,9 @@ My name is Luis Eduardo!
 
 ## 📚 Learning
 
-    Automated Tests: TDD with Python
-    UX Designer
+* Automated Tests: TDD with Python 
+    * https://github.com/djedu28/TDD_com_Python
+* UX Designer
 
 ## 💹 Projects
 * InovOnline Platform. Digital platform for teaching Robotics, Programming and Electronics.
