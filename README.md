@@ -56,8 +56,8 @@ My name is Luis Eduardo!
 
 ## Learning
 
-    Automated Tests: TDD with Python
-    UX Designer
+-   Automated Tests: TDD with Python
+-   UX Designer
 
 
 ## Social networks
