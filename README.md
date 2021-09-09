@@ -7,8 +7,8 @@ My name is Luis Eduardo!
 -   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
 -   <img width="16" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> I'm in love with the programmable universe and robotics
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> My favorite programming language is Lua, and the second is Python
--   👩‍🏫 Love teaching and sharing knowledge
--   👩‍🏫 Favorite text editor: Atom and Notepad++ 
+-  👨‍🏫 Love teaching and sharing knowledgen
+-  👨‍🏫 Favorite text editor: Atom and Notepad++ 
 
 ## 👨‍💻 Languages
 ### 😎 Intermediate to advanced level
@@ -71,16 +71,19 @@ My name is Luis Eduardo!
     UX Designer
 
 ## 💹 Projects
-- InovOnline Platform. Digital platform for teaching Robotics, Programming and Electronics.
-    [https://InovOnline.vercel.app](https://InovOnline.vercel.app)
+* InovOnline Platform. Digital platform for teaching Robotics, Programming and Electronics.
+    => [https://InovOnline.vercel.app](https://InovOnline.vercel.app)
 
 ## 📡 Social networks
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/djedu28)
 
-## Contact me
+## 🔶🔸Contact me🔸🔶
 
 ###
+```
+    The only way to improve your coding skills is to share your knowledge and help others - @Ebazhanov
+```
 
 
 <!-- <div>
