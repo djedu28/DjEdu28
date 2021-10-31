@@ -79,7 +79,7 @@ My name is Luis Eduardo!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/djedu28)
 
-## 🔶🔸Contact me🔸🔶
+## 🔶🔸Contact me🔸🔶   👆👆
 
 ###
 ```
@@ -91,3 +91,5 @@ My name is Luis Eduardo!
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=black">
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=white">
 </div> -->
+![Eduardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=DjEdu28&theme=gruvbox&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjEdu28&theme=gruvbox&layout=compact)](https://github.com/DjEdu28?tab=repositories)
