@@ -2,6 +2,8 @@
 
 Meu nome é Luis Eduardo
 
+_For English version: [README-en](/README-en.md)_
+
 ## 👨‍💻 Sobre Mim
 
 -   🇧🇷 Sou brasileiro
@@ -93,22 +95,26 @@ Meu nome é Luis Eduardo
     "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" - ( @Ebazhanov )
 ```
 ## Você continua lendo, interessante, então te dou um resumo sobre mim e o que faço
-```
-Sou estudante de Eng. Mecânica na UEMA e apaixonado pelo universo programável e pela robótica.
+<p aling="justify">
+    Sou estudante de Eng. Mecânica na UEMA e apaixonado pelo universo programável e pela robótica.
 Paixão essa que me levou até o eixo educação básica do Inova Maranhão onde temos dois projetos: "Inova, Galera!" e o "Maratoninha Maker".
 Através do Maratoninha levo conhecimentos de Robótica, Programação e Eletrônica de forma gamificada para os alunos e professores da rede pública do estado do maranhão. O nosso objetivo inicial é de alcançar 50 municípios. Para alcançar esse marco desenvolvi uma plataforma digital gratuita e abeta (InovOnline.vercel.app) para democratizar os saberes da Robótica, Programação e Eletrônica básica, e compartilhar as experiências que adquiri nessa jornada.
-No momento que escrevo esse resumo alcançamos 46 municípios do maranhão e possuímos cerca de 800 usuários cadastrados (e por ser aberta já possuímos até usuários de fora do Estado do Maranhão em Teresina- PI, Itacarambi- MG e São Paulo-SP).
-```
+</p>
+<p aling="justify">
+    No momento que escrevo esse resumo alcançamos 46 municípios do maranhão e possuímos cerca de 800 usuários cadastrados (e por ser aberta já possuímos até usuários de fora do Estado do Maranhão em Teresina- PI, Itacarambi- MG e São Paulo-SP).
+</p>
 
 ## Você continua lendo, interessante, então te dou um resumo sobre a minha jornada
-```
-
-Sempre fui curioso sobre o funcionamento dos eletrônicos e programas de computador, parecia até que conseguia conversar com eles ou entender como foram criados (sem saber estava desenvolvendo a lógica de programação), quando criança acreditava que programar era coisa de gente muito inteligente e que estava acima de mim. Gostava de desmontar eletrônicos para entender como funcionava e depois remontar, com o tempo essa metodologia migrou para o mundo do software, com 12 anos estava fazendo engenharia reversa em programas e jogos, pensava em como eles foram desenvolvidos e procurava (pensava e testava) maneiras de burlas/quebrar a lógica de construção, só para testar meus conhecimentos e aprender como foram feitos.
-Apesar de brincar com dados na memória RAM (CE) e modificar programas de terceiros, ainda acreditava que programar estava muito acima de minhas habilidades, infelizmente não pesquisei "como programar" ou algo assim no google. Não tive um tutor, nem alguém para me dizer que programar era fácil e eu já tinha tudo que precisava (a lógica e um bloco de notas). Meu primeiro 'Olá, mundo' foi em 2017, na universidade, nas aulas de introdução a lógica de programação (que de praxe, o professor não sabia ensinar), foi lá que vi que programar era sim possível! E fácil, e passei muito tempo acreditando no contrário, resolvi fazer aquela busca marota no google "como aprender a programar" e uma porta para um novo universo se foi aberta.
+<p aling="justify">
+    Sempre fui curioso sobre o funcionamento dos eletrônicos e programas de computador, parecia até que conseguia conversar com eles ou entender como foram criados (sem saber estava desenvolvendo a lógica de programação), quando criança acreditava que programar era coisa de gente muito inteligente e que estava acima de mim. Gostava de desmontar eletrônicos para entender como funcionava e depois remontar, com o tempo essa metodologia migrou para o mundo do software, com 12 anos estava fazendo engenharia reversa em programas e jogos, pensava em como eles foram desenvolvidos e procurava (pensava e testava) maneiras de burlas/quebrar a lógica de construção, só para testar meus conhecimentos e aprender como foram feitos.
+</p>
+<p aling="justify">
+    Apesar de brincar com dados na memória RAM (CE) e modificar programas de terceiros, ainda acreditava que programar estava muito acima de minhas habilidades, infelizmente não pesquisei "como programar" ou algo assim no google. Não tive um tutor, nem alguém para me dizer que programar era fácil e eu já tinha tudo que precisava (a lógica e um bloco de notas). Meu primeiro 'Olá, mundo' foi em 2017, na universidade, nas aulas de introdução a lógica de programação (que de praxe, o professor não sabia ensinar), foi lá que vi que programar era sim possível! E fácil, e passei muito tempo acreditando no contrário, resolvi fazer aquela busca marota no google "como aprender a programar" e uma porta para um novo universo se foi aberta.
 Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brinquedos inteligentes, e robôs de competição, mas só mexia com LEDs, motorzinhos, papelão e algumas pilhas. Desconhecia as competições de robótica que já acontecia no meu estado (nível fundamental e médio), só em 2018.2, já programando em LUA, conheci o Arduino, uma plaquinha pequena de baixo custo que tornava possível a maioria dos meus sonhos de criança (construir um robô), depois conheci as competições (as quais já não poderia participar), conhecendo elas me veio o desejo de tornar possível o sonho de outras crianças que compartilhavam essa paixão pela robótica, fiz uma capacitação de árbitro de competições de robótica e participei como voluntario de todas as competições de robótica que tive oportunidade, minha primeira viagem sozinho para fora da minha cidade foi pra arbitrar em uma dessas competições (TJR-2019, Codó/MA), mas ainda tinha o desejo de fazer mais.
-Em agosto de 2020 participei de um seletivo para estágio no Inova Maranhão, onde hoje estou realizando um de meus sonhos que é tornar realidade os sonhos de outros eduardos de construir seu próprio robô, além de mostrar que a programação não é difícil e que qualquer um pode e deve aprender a programar.
-
-```
+</p>
+<p aling="justify">
+    Em agosto de 2020 participei de um seletivo para estágio no Inova Maranhão, onde hoje estou realizando um de meus sonhos que é tornar realidade os sonhos de outros eduardos de construir seu próprio robô, além de mostrar que a programação não é difícil e que qualquer um pode e deve aprender a programar.
+</p>
 
 <!-- <div>
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=black">
