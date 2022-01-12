@@ -4,7 +4,7 @@ Meu nome é Luis Eduardo
 
 ## 👨‍💻 Sobre Mim
 
--   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Sou brasileiro
+-   🇧🇷 Sou brasileiro
 -   <img width="16" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Sou apaixonado pelo universo programável e pela robótica
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Minha linguagem de programação favorita é Lua, e a segunda é python
 -  👨‍🏫 Amo ensinar e compartilhar conhecimentos
