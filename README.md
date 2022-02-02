@@ -1,4 +1,4 @@
-### Olá!
+## Olá!
 
 Meu nome é Luis Eduardo
 
@@ -8,6 +8,7 @@ _For English version: [README-en](/README-en.md)_
 
 -   🇧🇷 Sou brasileiro
 -   <img width="16" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Sou apaixonado pelo universo programável e pela robótica
+-   👨‍🎓 Estudante de Eng. Mecanica na UEMA
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Minha linguagem de programação favorita é Lua, e a segunda é python
 -  👨‍🏫 Amo ensinar e compartilhar conhecimentos
 "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" — ( @Ebazhanov )
