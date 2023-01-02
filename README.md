@@ -12,7 +12,7 @@ _For English version: [README-en](/README-en.md)_
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Minha linguagem de programação favorita é Lua, e a segunda é python
 -  👨‍🏫 Amo ensinar e compartilhar conhecimentos
 "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" — ( @Ebazhanov )
--  👨‍🏫 Meus editores são: [Atom.io](https://atom.io/) e [Notepad++](https://notepad-plus-plus.org/) 
+-  👨‍🏫 Meus editores são: ![VsCODE](https://code.visualstudio.com/download), [Atom.io](https://atom.io/) e [Notepad++](https://notepad-plus-plus.org/) 
 
 ## 👨‍💻 Linguagens de Programação
 ### 😎 De intermediário a avançado (com estudos contínuos)
@@ -29,7 +29,7 @@ _For English version: [README-en](/README-en.md)_
 # <img width="25" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Tecnologias que domino
 
 ### 🤖 Automação e Robótica
-<code>
+<div>
     <img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Expressif&logoColor=white">
@@ -37,7 +37,7 @@ _For English version: [README-en](/README-en.md)_
         <img width="32" alt="" src="https://cyberbotics.com/assets/images/webots.png">
         <img alt="" src="https://img.shields.io/badge/Webots-9a0012?style=for-the-badge&logoColor=white">
     </div>
-</code>
+</div>
 
 ### 💻 Front End (desenvolvimento de interfaces)[GUI]
 
@@ -95,7 +95,9 @@ _For English version: [README-en](/README-en.md)_
     Um dia um desconhecido me disse estas palavras e as tenho como um de meus mantras:
     "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" - ( @Ebazhanov )
 ```
-## Você continua lendo, interessante, então te dou um resumo sobre mim e o que faço
+<!-- ![Clique aqui](/minha_historia.md) para continuar lendo sobre minha história -->
+## Você continua lendo, interessante! Então te dou um resumo sobre minha história e o que faço
+
 <p aling="justify">
     Sou estudante de Eng. Mecânica na UEMA e apaixonado pelo universo programável e pela robótica.
 Paixão essa que me levou até o eixo educação básica do Inova Maranhão onde temos dois projetos: "Inova, Galera!" e o "Maratoninha Maker".
@@ -105,7 +107,7 @@ Através do Maratoninha levo conhecimentos de Robótica, Programação e Eletrô
     No momento que escrevo esse resumo alcançamos 46 municípios do maranhão e possuímos cerca de 800 usuários cadastrados (e por ser aberta já possuímos até usuários de fora do Estado do Maranhão em Teresina- PI, Itacarambi- MG e São Paulo-SP).
 </p>
 
-## Você continua lendo, interessante, então te dou um resumo sobre a minha jornada
+### Um resumo sobre a minha jornada
 <p aling="justify">
     Sempre fui curioso sobre o funcionamento dos eletrônicos e programas de computador, parecia até que conseguia conversar com eles ou entender como foram criados (sem saber estava desenvolvendo a lógica de programação), quando criança acreditava que programar era coisa de gente muito inteligente e que estava acima de mim. Gostava de desmontar eletrônicos para entender como funcionava e depois remontar, com o tempo essa metodologia migrou para o mundo do software, com 12 anos estava fazendo engenharia reversa em programas e jogos, pensava em como eles foram desenvolvidos e procurava (pensava e testava) maneiras de burlas/quebrar a lógica de construção, só para testar meus conhecimentos e aprender como foram feitos.
 </p>
@@ -113,10 +115,20 @@ Através do Maratoninha levo conhecimentos de Robótica, Programação e Eletrô
     Apesar de brincar com dados na memória RAM (CE) e modificar programas de terceiros, ainda acreditava que programar estava muito acima de minhas habilidades, infelizmente não pesquisei "como programar" ou algo assim no google. Não tive um tutor, nem alguém para me dizer que programar era fácil e eu já tinha tudo que precisava (a lógica e um bloco de notas). Meu primeiro 'Olá, mundo' foi em 2017, na universidade, nas aulas de introdução a lógica de programação (que de praxe, o professor não sabia ensinar), foi lá que vi que programar era sim possível! E fácil, e passei muito tempo acreditando no contrário, resolvi fazer aquela busca marota no google "como aprender a programar" e uma porta para um novo universo se foi aberta.
 Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brinquedos inteligentes, e robôs de competição, mas só mexia com LEDs, motorzinhos, papelão e algumas pilhas. Desconhecia as competições de robótica que já acontecia no meu estado (nível fundamental e médio), só em 2018.2, já programando em LUA, conheci o Arduino, uma plaquinha pequena de baixo custo que tornava possível a maioria dos meus sonhos de criança (construir um robô), depois conheci as competições (as quais já não poderia participar), conhecendo elas me veio o desejo de tornar possível o sonho de outras crianças que compartilhavam essa paixão pela robótica, fiz uma capacitação de árbitro de competições de robótica e participei como voluntario de todas as competições de robótica que tive oportunidade, minha primeira viagem sozinho para fora da minha cidade foi pra arbitrar em uma dessas competições (TJR-2019, Codó/MA), mas ainda tinha o desejo de fazer mais.
 </p>
-<p aling="justify">
-    Em agosto de 2020 participei de um seletivo para estágio no Inova Maranhão, onde hoje estou realizando um de meus sonhos que é tornar realidade os sonhos de outros eduardos de construir seu próprio robô, além de mostrar que a programação não é difícil e que qualquer um pode e deve aprender a programar.
-</p>
 
+### Um resumo sobre Minha Carreira
+-   Em 2019 fui membro efetivo da equipe especial Zeus. A Zeus tem como objetivo principal projetar e construir uma aeronave de carga para competição SAE Brasil Aerodesign.
+``` Em 2019, a aeronave Plano A fez um feito e tanto levando a equipe para 7ª colocação, marca inédita alcançada, fruto dos esforços ao longo do ano pelos integrantes. Nesse projeto, o peso da aeronave vazia era de 2,78 kg podendo carregar até 10,21 kg.``` – ![Eng. Mecanica - UEMA](https://www.engmecanica.uema.br/?page_id=231)
+
+-   No primeiro semestre de 2020, durante a quarentena, professores e estudantes impedidos de terem contato físico, digitalizei o teste de proficiência em linguás do Núcleo de Linguagens da Universidade Estadual do Maranhão – NUCLIN-UEMA, permitindo a aplicação dos exames na modalidade remota com segurança equivalente, se não maior, comparada a modalidade presencial. Com esta digitalização nos foi proporcionado a aplicação do exame em todo o território nacional do Brasil. Desde então sou o responsável técnico em Tecnologia da Informação do NUCLIN (![clique aqui para conhecer o NUCLIN](https://www.instagram.com/nuclin_uema/))
+
+-   Em agosto de 2020 participei de um seletivo para estágio no Inova Maranhão, onde hoje estou realizando um de meus sonhos que é tornar realidade os sonhos de outros 'Eduardos' de construir seu próprio robô, além de mostrar que a programação não é difícil e que qualquer um pode e deve aprender a programar.
+-   Em novembro de 2022 fui contratado como Especialista Técnico no Inova Maranhão, atuando principalmente no Eixo Educação e desenvolvendo e atuando em novas ações do eixo.
+-   Durante este período desenvolvi a plataforma InovOnline, **atualmente com +1500 participantes matriculados**, impactando diretamente **+80 municípios do estado do maranhão,** ainda com a meta de atingir os 217 municípios. 
+-   Além da plataforma, viajei pelo maranhão realizando oficinas para educadores (Professores, Gestores e Aluno destaque), formando eles para serem disseminadores da robótica e da cultura maker com auxílio da plataforma InovOnline. 
+-   Com as oficinas **capacitei mais de 1600 educadores em Robótica Educacional, +80 alunos capacitados em introdução a Impressão 3D** e primeiros passos para modelagem 3D, e capacitei **+20 estudantes em eletrônica básica, logica e programação focadas em automação em Internet das Coisas (IoT)**
+
+## Gráficos
 <!-- <div>
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=black">
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=white">
