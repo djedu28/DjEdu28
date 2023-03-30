@@ -84,7 +84,7 @@ _For English version: [README-en](/README-en.md)_
     Desenvolvida e mantida por mim para ser usada no projeto Maratoninha Maker e com isso levarmos de forma gratuita esses conhecimentos para as instituições de ensino da rede pública do estado do maranhão, mais precisamente aos professores e alunos dos interiores do estado do maranhão, mas a plataforma não é limitada às fronteiras do Estado, possuindo alunos de São Paulo, Piauí e Minas Gerais.
 
 ## 📡 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/djedu28)
 
 ## 🔶🔸Contate-me 🔸🔶   👆👆
