@@ -24,7 +24,7 @@ _For English version: [README-en](/README-en.md)_
 
 ### 😀 De básico a intermediário 
 * <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt=""/> Matlab (aprendi e uso no curso de Eng. Mec.)
-* <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> R (usando no curso de estatistifica/Inteligencia Artificial)
+* <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> R (usando no curso de estatística/Inteligência Artificial)
 
 # <img width="25" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Tecnologias que domino
 
