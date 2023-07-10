@@ -9,9 +9,14 @@ O video apresentando o curso do Filipe Deschamps e engenharia reversa para enten
   - Neste comentário falo sobre a plataforma InovOnline, um pouco do contexto de como e o porquê foi criada, os meus objetivos para a criação dela, minhas inspirações e os pilares da minha jornada de aprendizado.
   - apresento os youtubers e projetos que tiveram grande influência na minha carreira de desenvolvedor, principalmente durante a codificação da plataforma educacional InovOnline.
 
+## Captura de tela do meu comentário publicado, porém se atualizar a página o comentário não aparece
+[prova_do_comentario no yt - Filipe Deschamps x Fiasco - Era tudo inteligência artificial ft @FilipeDeschamps - YouTube](https://github.com/djedu28/DjEdu28/assets/43933482/890fb09d-4f97-4459-b5b3-455fac61ce91)
+
+
+
 # O Comentário
 
-Incrivelmente fiquei sabendo do #cursododeschamps por meio deste vídeo que surgiu no meu feed. Eu nem conhecia o @GrandeFiasco, mas gostei da recomendação do YouTube e já estou seguindo o canal. Os vídeos são muito legais e eu curti muito a construção da história.
+🤦‍♂️Incrivelmente fiquei sabendo do #cursododeschamps por meio deste vídeo que surgiu no meu feed. Eu nem conhecia o @GrandeFiasco, mas gostei da recomendação do YouTube e já estou seguindo o canal. Os vídeos são muito legais e eu curti muito a construção da história.
 
 Sou estudante de Eng. Mecânica na @uemaoficial e sou apaixonado pelo universo programável e pela robótica. Meu GitHub é github.com/DjEdu28, lá tem um pouco mais da minha história e minhas outras redes sociais. (Como exigido meu Instagram e Discord são @djedu28, apesar de não utilizar muito estas redes sociais)
 
