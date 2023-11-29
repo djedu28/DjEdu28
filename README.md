@@ -22,15 +22,15 @@ _For English version: [README-en](/README-en.md)_
 * <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Lua ❣
 * <img width="16" src="https://www.iconfinder.com/icons/4375050/download/svg/4096" alt="" /> Python
 * <img width="16" src="https://www.iconfinder.com/icons/652581/download/svg/4096" alt="" /> JavaScript
-* <img width="16" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" alt="" /> Arduino/C++
+* <img width="16" src="https://static-00.iconduck.com/assets.00/file-type-arduino-icon-96x96-pefk3zwt.png" alt="" /> Arduino/C++
 
 ### 😀 De básico a intermediário 
-* <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt=""/> Matlab (aprendi e uso no curso de Eng. Mec.)
+* <img width="16" src="https://static-00.iconduck.com/assets.00/file-type-matlab-icon-96x87-uj9gr4lq.png" alt=""/> Matlab (aprendi e uso no curso de Eng. Mec.)
 * <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> ~~R (usado no curso de estatística/Inteligência Artificial)~~ (não o utilizo faz muito tempo)
 
 ### 😀 vontade de aprender
 
-* <img width="16" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png)" alt=""/> Ruby
+* <img width="16" src="https://static-00.iconduck.com/assets.00/file-type-ruby-icon-96x96-hx173m0y.png" alt=""/> Ruby
 
 # <img width="25" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Tecnologias que domino
 
