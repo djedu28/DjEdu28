@@ -12,7 +12,9 @@ _For English version: [README-en](/README-en.md)_
 -   <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Minha linguagem de programação favorita é Lua, e a segunda é python
 -  👨‍🏫 Amo ensinar e compartilhar conhecimentos
 "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" — ( @Ebazhanov )
--  👨‍🏫 Meus editores são: ![VsCODE](https://code.visualstudio.com/download), [Atom.io](https://atom.io/) e [Notepad++](https://notepad-plus-plus.org/) 
+-  👨‍🏫 Meus editores são: ![VsCODE](https://code.visualstudio.com/download), ~[Atom.io](https://atom.io/)~ e [Notepad++](https://notepad-plus-plus.org/)
+
+`(infelizmente o atom foi descontinuado, e por segurança parei de usa-lo, mas carrego comigo nas lembranças e no coração)`
 
 ## 👨‍💻 Linguagens de Programação
 ### 😎 De intermediário a avançado (com estudos contínuos)
@@ -24,7 +26,11 @@ _For English version: [README-en](/README-en.md)_
 
 ### 😀 De básico a intermediário 
 * <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" alt=""/> Matlab (aprendi e uso no curso de Eng. Mec.)
-* <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> R (usando no curso de estatística/Inteligência Artificial)
+* <img width="16" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="" /> ~~R (usado no curso de estatística/Inteligência Artificial)~~ (não o utilizo faz muito tempo)
+
+### 😀 vontade de aprender
+
+* <img width="16" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png)" alt=""/> Ruby
 
 # <img width="25" src="https://cdn.icon-icons.com/icons2/196/PNG/128/dev_23828.png" alt="" /> Tecnologias que domino
 
