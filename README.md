@@ -15,8 +15,23 @@ _For English version: [README-en](/README-en.md)_
 -  👨‍🏫 Meus editores são: ![VsCODE](https://code.visualstudio.com/download), ~[Atom.io](https://atom.io/)~ e [Notepad++](https://notepad-plus-plus.org/)
 
 `(infelizmente o atom foi descontinuado, e por segurança parei de usa-lo, mas carrego comigo nas lembranças e no coração)`
-
+<!-- 
+    https://skillicons.dev/icons?i=lua,python,js,arduino&theme=light
+    https://skillicons.dev/icons?i=react,nodejs,figma,docker,materialui,selenium,vercel,vite,vscode,yarn&theme=light
+-->
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=lua,python,js,arduino,postgres&theme=light" />
+    </a>
+    
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,figma,docker,materialui,selenium,vercel,vite,vscode,yarn&perline=5" />  
+    </a>
+</p>
 ## 👨‍💻 Linguagens de Programação
+
 ### 😎 De intermediário a avançado (com estudos contínuos)
 
 * <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="" /> Lua ❣
