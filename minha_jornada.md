@@ -46,9 +46,9 @@ Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brin
 
 -   Em agosto de 2020 participei de um seletivo para estágio no Inova Maranhão, onde hoje estou realizando um de meus sonhos que é tornar realidade os sonhos de outros 'Eduardos' de construir seu próprio robô, além de mostrar que a programação não é difícil e que qualquer um pode e deve aprender a programar.
 -   Em novembro de 2022 fui contratado como Especialista Técnico no Inova Maranhão, atuando principalmente no Eixo Educação e desenvolvendo e atuando em novas ações do eixo.
--   Durante este período desenvolvi a plataforma InovOnline, **atualmente com +1500 participantes matriculados**, impactando diretamente **+80 municípios do estado do maranhão,** ainda com a meta de atingir os 217 municípios. 
+-   Durante este período desenvolvi a plataforma InovOnline, **atualmente com +2062 participantes**, impactando diretamente **+110 municípios do estado do maranhão,** ainda com a meta de atingir os 217 municípios. 
 -   Além da plataforma, viajei pelo maranhão realizando oficinas para educadores (Professores, Gestores e Aluno destaque), formando eles para serem disseminadores da robótica e da cultura maker com auxílio da plataforma InovOnline. 
--   Com as oficinas **capacitei mais de 1600 educadores em Robótica Educacional, +80 alunos capacitados em introdução a Impressão 3D** e primeiros passos para modelagem 3D, e capacitei **+20 estudantes em eletrônica básica, logica e programação focadas em automação em Internet das Coisas (IoT)**
+-   Com as oficinas **capacitei mais de 2k educadores em Robótica Educacional, +200 alunos capacitados em introdução a Impressão 3D** e primeiros passos para modelagem 3D, e capacitei **+80 estudantes em eletrônica básica, logica e programação focadas em automação em Internet das Coisas (IoT)** com aulas presenciais.
 
 ## 📩 Mensagem para você
 
