@@ -8,7 +8,7 @@ Meu nome é Luis Eduardo, me apresentei em [https://github.com/djedu28/DjEdu28](
 
 ## 🔶🔸Contate-me 🔸🔶   👆👆
 
-**EI!** Não deixe de ler o aviso no final
+**EI!** Não deixe de [ler o aviso](https://github.com/djedu28/DjEdu28/blob/master/minha_jornada.md#menssagem-pra-voc%C3%AA) no final
 
 ### Mais sobre mim
 ```
