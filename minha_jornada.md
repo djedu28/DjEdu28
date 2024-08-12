@@ -50,8 +50,10 @@ Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brin
 -   Além da plataforma, viajei pelo maranhão realizando oficinas para educadores (Professores, Gestores e Aluno destaque), formando eles para serem disseminadores da robótica e da cultura maker com auxílio da plataforma InovOnline. 
 -   Com as oficinas **capacitei mais de 1600 educadores em Robótica Educacional, +80 alunos capacitados em introdução a Impressão 3D** e primeiros passos para modelagem 3D, e capacitei **+20 estudantes em eletrônica básica, logica e programação focadas em automação em Internet das Coisas (IoT)**
 
-## Menssagem pra você
+## 📩 Mensagem para você
 
-Estou atuando em diversas frentes, incluindo a democratização da robótica no estado do maranhão, finalizando a Graduação em Engenharia Mecânica e  desenvolvendo aplicações para otimizar a vida dos meus clientes.
+Estou atuando em diversas frentes, incluindo a democratização da Robótica Educacional, finalizando a Graduação em Engenharia Mecânica e desenvolvendo aplicações para otimizar a vida dos meus clientes.
 
-Sei que tem muita coisa que ainda falta contar, e que não sou de publicar nas redes sócias, então será difícil de você encontrar, mas se quiser pode me chamar para conversar, meu telefone é o disponível em "tirar dúvidas" na plataforma inovOnline.vercel.app
+Sei que tem muita coisa que ainda falta contar, e que não sou de publicar nas redes sócias, então será difícil de você encontrar, mas se quiser pode me chamar para conversar, meu telefone é o disponível em "tirar dúvidas" na plataforma [https://inovOnline.vercel.app](https://inovOnline.vercel.app/contato)
+
+
