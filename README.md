@@ -106,16 +106,49 @@ _For English version: [README-en](/README-en.md)_
 
 ## 📚 Aprendendo
 
-* Testes automatizados: TDD com python
+* Testes automatizados: TDD com Python
     * https://github.com/djedu28/TDD_com_Python
-    * Revisando o TDD com python usando a conta da Alura fornecida programa Trilhas/Inova Maranhão (estudo a parte)
-* UX Designer
-    * Formação de UX pelo programa Trilhas/Inova Maranhão
+    * Revisando o TDD com Python usando a conta da Alura fornecida programa Trilhas/Inova Maranhão (estudo a parte)
+
+## Formações Trilhas Inova
+
+### Trilhas v1
+* Experiencia do Usuário (UX) e Designer
+    * Formação de UX pelo programa Trilhas/Inova Maranhão versão 1.0  (2021)
+    * [Meu perfil na alura.com (@Djedu28)](https://cursos.alura.com.br/user/djedu28/)
+
+### Trilhas v2.1
+
+* Ciência de Dados
+    * Formação de Ciencia de Dados pelo programa Trilhas/Inova Maranhão versão 2.1  (2024)
+    * [Meu segundo perfil na alura.com (@Djedu28-2)](https://cursos.alura.com.br/user/djedu28-2/)
+
+* Desenvolvedor WEB
+    * Formação Alura Include (Frontend e Backend) pelo programa Trilhas/Inova Maranhão versão 2.1  (2024)
+    * [Meu segundo perfil na alura.com (@Djedu28-2)](https://cursos.alura.com.br/user/djedu28-2/)
+
+* Desafios publicados na formação Trilhas v2.1
+  
+**Desafio 1** Logica HTML + CSS (sem JS)
+> Basico de lógica, muito somples, então criei uma documentação para auxilixar os outros alunos que estavam iniciando
+
+**Desafio 2** Logica HTML + CSS + JS
+>
+
+**Desafio 3** Portifolio
+>
+
+**Desafio 4** 1º Desafio em Grupo: Desenvolver um Jogo, Landing Page, backend e banco de dados
+> Projeto realizado em equipe, com membros de todas as trilhas do inova: Design, Ciencia de dados, Frontend, Backend e Jogos
+
+**Desafio 5** 
+> Desafio espessifico para cada trilha, no ciencia de dados foi solicitado usar python, para tratar um banco de dados e gerar um modelo preditivo (Machine learning) baseado nos dados analisados.
 
 ## 💹 Projetos em produção
 * Plataforma InovOnline. Plataforma digital para democratizar os conhecimentos da robótica, programação e eletrônica
     => [https://InovOnline.vercel.app](https://InovOnline.vercel.app)
-    Desenvolvida e mantida por mim para ser usada no projeto Maratoninha Maker e com isso levarmos de forma gratuita esses conhecimentos para as instituições de ensino da rede pública do estado do maranhão, mais precisamente aos professores e alunos dos interiores do estado do maranhão, mas a plataforma não é limitada às fronteiras do Estado, possuindo alunos de São Paulo, Piauí e Minas Gerais.
+    Desenvolvida e mantida por mim para ser usada no projeto Maratoninha Maker e com isso levarmos de forma gratuita esses conhecimentos para as instituições de ensino da rede pública do estado do maranhão, mais precisamente aos professores e alunos da rede pública do estado do maranhão, mas a plataforma não é limitada às fronteiras do Estado, possuindo alunos de São Paulo, Piauí, Minas Gerais e até de fora do Brasil: Argentina, Israel e Africa/Moçambique.
+
 
 ## 📡 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-silva-dos-santos-dj28/)
