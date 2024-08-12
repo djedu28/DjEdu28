@@ -208,9 +208,9 @@ _For English version: [README-en](/README-en.md)_
     "A única forma de aperfeiçoar-se é compartilhar o conhecimento e ajudar os outros" - ( @Ebazhanov )
 ```
 <!-- ![Clique aqui](/minha_historia.md) para continuar lendo sobre minha história -->
-## Você continua lendo, interessante! Então te dou um resumo sobre minha história e o que faço
+## Você continua lendo, interessante! Então te dou um resumo sobre minha jornada e o que faço
 
-[Clique aqui](/minha_historia.md) para continuar lendo sobre minha jornada
+[Clique aqui](/minha_jornada.md) para continuar lendo sobre minha jornada
 
 <!--
 <p aling="justify">
@@ -252,3 +252,11 @@ Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brin
 </div> -->
 ![Eduardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=DjEdu28&theme=gruvbox&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjEdu28&theme=gruvbox&layout=compact)](https://github.com/DjEdu28?tab=repositories)
+
+
+## 📩 Mensagem para você
+
+Estou atuando em diversas frentes, incluindo a democratização da robótica educacional, finalizando a Graduação em Engenharia Mecânica e desenvolvendo aplicações para otimizar a vida dos meus clientes.
+
+Sei que tem muita coisa que ainda falta contar, além de alguns projetos privados. Também que não sou de publicar nas redes sócias, então se quiser, pode me chamar para conversar, meu telefone é o disponível em "tirar dúvidas" na plataforma [https://inovOnline.vercel.app](https://inovOnline.vercel.app/contato)
+
