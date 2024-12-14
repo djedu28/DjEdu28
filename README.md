@@ -207,9 +207,23 @@ Sempre gostei de robótica, tinha o desejo de construir robôs, carrinhos e brin
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=black">
   <img src="https://img.shields.io/badge/NOME-COR?style=for-the-badge&logo=NOME&logoColor=white">
 </div> -->
-![Eduardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=DjEdu28&theme=gruvbox&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjEdu28&theme=gruvbox&layout=compact)](https://github.com/DjEdu28?tab=repositories)
+<div align="center">
 
+[![Eduardo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=DjEdu28&theme=gruvbox&show_icons=true)](https://github.com/DjEdu28)
+[<img src="https://github-readme-stats.vercel.app/api?username=djedu28&show_icons=true&locale=pt-BR&theme=gruvbox&hide_border=true&title_color=fb8c00" alt="Estatisticas do GitHub de Eduardo Santos" />](https://github.com/DjEdu28)
+<!-- &bg_color=0d1117&text_color=ffffff&icon_color=fb8c00&hide_title=true&hide_rank=true -->
+
+[![Eduardo Santos GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjEdu28&show_icons=true&locale=en&theme=gruvbox&layout=compact&hide=G-code,cmake,Makefile,css,html,roff,jupyter%20notebook&card_width=467)](https://github.com/DjEdu28?tab=repositories)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=djedu28&show_icons=true&locale=pt-BR&theme=gruvbox&layout=compact&hide=G-code,cmake,Makefile,css,html,roff,jupyter%20notebook&hide_border=true&card_width=467" alt="Linguagens no GitHub de Eduardo Santos" />](https://github.com/DjEdu28?tab=repositories)
+<!-- 
+&hide=G-code,assembly,cmake,css,html,jupyter%20notebook,vhdl
+&exclude_repo=...&bg_color=0d1117&text_color=ffffff&title_color=ffffff&hide_title=true  
+&langs_count=8
+-->
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=djedu28&theme=highcontrast&hide_border=true&background=0d1117" alt="djedu28" />
+  
+</div>
 
 ## 📩 Mensagem para você
 
